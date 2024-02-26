@@ -2,7 +2,7 @@
 <manifest>
 
     <!--Remotes-->
-    <remote name="github"    fetch="https://github.com/MODEDGES-EXYNOS9820"/>
+    <remote name="github"    fetch="https://github.com/"/>
     <remote name="dependencies"    fetch="https://github.com/linux4-bringup-priv"/>
 
     <!--Devices Trees-->
